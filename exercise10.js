@@ -7,6 +7,7 @@ var howManyDays = function (dob, now) {
     const result = `you have lived for ${countDays} days already!`;
     return result;
   }
+
   return error;
 };
 
